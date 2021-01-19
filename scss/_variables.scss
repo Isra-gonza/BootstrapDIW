@@ -43,7 +43,7 @@ $yellow:  #ffc107 !default;
 $green:   #28a745 !default;
 $teal:    #20c997 !default;
 $cyan:    #17a2b8 !default;
-$gold:    #c49a1d !default; //HE AÑADIDO EL COLOR DORADO
+$gold:    #c49a1d !default; //HE AÑADIDO EL COLOR DORADO 
 
 $colors: () !default;
 $colors: map-merge(
@@ -61,7 +61,7 @@ $colors: map-merge(
     "white":      $white,
     "gray":       $gray-600,
     "gray-dark":  $gray-800,
-    "gold":       $gold //HE AÑADIDO EL COLOR DORADO
+    "gold":       $gold //HE AÑADIDO EL COLOR DORADO 
   ),
   $colors
 );
@@ -74,7 +74,7 @@ $warning:       $yellow !default;
 $danger:        $red !default;
 $light:         $gray-100 !default;
 $dark:          $gray-800 !default;
-$gold:          $gold  !default; //HE AÑADIDO EL COLOR DORADO
+$gold:          $gold  !default; //HE AÑADIDO EL COLOR DORADO 
 
 $theme-colors: () !default;
 $theme-colors: map-merge(
@@ -87,7 +87,7 @@ $theme-colors: map-merge(
     "danger":     $danger,
     "light":      $light,
     "dark":       $dark,
-    "dorado":     $gold,
+    "dorado":     $gold,   
   ),
   $theme-colors
 );
